@@ -64,8 +64,7 @@ a{
     font-size: 14px;
     margin-right: 24px;
     margin-top: 8px;
-    cursor: pointer;
-    
+    cursor: pointer;  
 }
 .btn{
 font-Family: 'Poppins', sans-serif;
@@ -262,7 +261,6 @@ border-style: none;
 .profile-text{
     padding-top: 30px;
     font-size: 14px;
-    /* font-weight: 500; */
     color: #8b8b99; 
     letter-spacing: .5px;
     font-family: 'Poppins', sans-serif;
@@ -424,6 +422,8 @@ footer{
     padding: 30px 0px;
     
 }
+
+
 
 @media (max-width: 900px){
     .heading-third{
